@@ -36,7 +36,7 @@ body {
 }
 
 @page {
-  margin: auto;
+  margin: 1in;
 }
 
 @media print {
@@ -52,7 +52,7 @@ body {
     align-self: flex-start;
   }
 
-  .container .ql-toolbar.ql-container.ql-snow {
+  .container .ql-toolbar.ql-snow {
     display: none;
   }
 }
